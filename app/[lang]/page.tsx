@@ -23,13 +23,9 @@ export async function generateMetadata({
 
 const Page = async ({ params }: { params: { lang: string } }) => {
   const dict = await getDictionary(params.lang);
-  const canonical = "https://sprunkisworld.com/" + params.lang
 
   return (
     <>
-      <head>
-        <link rel="canonical" href={canonical} />
-      </head>
       <main className="w-full">
         <header className="bg-purple-600 text-white">
           <div className="container mx-auto px-4">

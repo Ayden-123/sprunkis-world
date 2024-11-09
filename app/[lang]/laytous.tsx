@@ -1,5 +1,6 @@
 import React from 'react'
 import { ReactNode } from "react";
+import GoogleAnalytics from '../GoogleAnalytics';
 
 
 const Layout = async ({
@@ -10,12 +11,22 @@ const Layout = async ({
   params: { lang: string };
 }) => {
 
+  const canonical = "https://sprunkisworld.com/" + params.lang
   return (
-    <div className='flex flex-col h-screen justify-between'>
-      <div>
-        {children}
+    <html
+    >
+      <GoogleAnalytics />
+
+      <head>
+        <link rel="canonical" href={canonical} />
+      </head>
+
+      <div className='flex flex-col h-screen justify-between'>
+        <div>
+          {children}
+        </div>
       </div>
-    </div>
+    </html>
   )
 }
 

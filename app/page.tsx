@@ -27,9 +27,6 @@ const Page = async () => {
 
     return (
         <>
-            <head>
-                <link rel="canonical" href="https://sprunkisworld.com/" />
-            </head>
             <main className="w-full">
 
                 <header className="bg-purple-600 text-white">
