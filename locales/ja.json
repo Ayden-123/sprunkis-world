@@ -1,0 +1,71 @@
+{
+	"meta": {
+	  "title": "Sprunki's World: Sprunki オンラインゲーム、Sprunky ビートを無料で作ろう",
+	  "description": "Sprunkyの世界に飛び込もう、Sprunki's Worldでプレイ！個性的なキャラクターと一緒に、ユニークなSprunkyビートを組み合わせて作ろう。かつてない音楽制作体験をあなたに。"
+	},
+	"common": {
+	  "appName": "Sprunki's World"
+	},
+	"header": {
+	  "home": "ホーム",
+	  "about": "概要",
+	  "contactUs": "お問い合わせ"
+	},
+	"hero": {
+	  "title": "無料でSprunkyをプレイ、Sprunki's Worldゲームを体験しよう",
+	  "description": "音楽ゲームSprunki's Worldへようこそ",
+	  "cta": "今すぐSprunki を始める"
+	},
+	"emb": {
+	  "title": "今すぐSprunki's Worldで遊ぼう"
+	},
+	"what": {
+	  "title": "Sprunki's Worldとは？",
+	  "pas1": "Sprunki's Worldは単なるゲームではありません。音楽の革命です！人気プラットフォームIncrediboxから生まれたSprunki は、ビート制作に新たな楽しさと創造性をもたらします。Sprunki's Worldでは、音楽を作るだけでなく、従来の概念を打ち破り、あなたの内なる音楽の天才を解き放つユニークなシンフォニーを作り出すことができます。",
+	  "pas2": "Sprunki's Worldの核心は、個性的なサウンドを組み合わせて独自のビートを作ることです。しかし、Sprunki を特別なものにしているのは、愛らしく奇妙なキャラクターたちです。それぞれが音楽制作に独自の味わいを加えます。ビートボックスをするロボットからヨーデルを歌うイエティまで、Sprunki のキャラクターたちがあなたの音楽制作体験を忘れられないものにします。"
+	},
+	"feature": {
+	  "title": "Sprunki's Worldの特徴",
+	  "pastitle1": "ユニークなサウンドスケープ",
+	  "pasdesc1": "Sprunkyサウンドとユニークなサンプルの世界を探索しよう。",
+	  "pastitle2": "個性的なキャラクター",
+	  "pasdesc2": "個性豊かなSprunki のビートボクサーや歌い手たちと出会おう。",
+	  "pastitle3": "鮮やかなビジュアル",
+	  "pasdesc3": "カラフルでアニメーションあふれるSprunki の世界に没入しよう。",
+	  "pastitle4": "Sprunki エフェクト",
+	  "pasdesc4": "クレイジーなエフェクトを加えて、真にユニークな作品を作ろう。"
+	},
+	"how": {
+	  "title": "Sprunki's Worldの遊び方",
+	  "pastitle1": "Sprunki を選ぼう",
+	  "pasdesc1": "個性豊かなキャラクターの中から選択しよう。",
+	  "pastitle2": "ビートをミックス",
+	  "pasdesc2": "ドラッグ＆ドロップでユニークな作品を作ろう。",
+	  "pastitle3": "Sprunki マジックを追加",
+	  "pasdesc3": "クレイジーなエフェクトとトランジションでミックスを強化しよう。",
+	  "pastitle4": "Sprunki をシェア",
+	  "pasdesc4": "あなたの作品をSprunki コミュニティで共有しよう。"
+	},
+	"faq": {
+	  "title": "Sprunkyによくある質問",
+	  "pastitle1": "通常のIncrediboxとSprunki's Worldの違いは何ですか？",
+	  "pasdesc1": "Sprunki's WorldはIncrediboxの基本コンセプトに、さらなる個性と創造性を注入しています。Sprunki では、よりクレイジーなキャラクター、より奇抜なサウンド、そしてよりユニークな体験が待っています！",
+	  "pastitle2": "Sprunki's Worldを楽しむのに音楽経験は必要ですか？",
+	  "pasdesc2": "全く必要ありません！Sprunki's Worldは、音楽初心者からプロまで、誰でも楽しめるように設計されています。直感的なインターフェースにより、誰でもすぐにユニークなビート作りを始められます。",
+	  "pastitle3": "Sprunki の作品を保存・共有できますか？",
+	  "pasdesc3": "もちろんです！Sprunki's Worldでは、あなたのビートを保存し、Sprunki コミュニティと共有できます。また、作品をエクスポートして、友達や家族に見せることもできます。",
+	  "pastitle4": "Sprunki's Worldはモバイルデバイスで利用できますか？",
+	  "pasdesc4": "はい！Sprunki's Worldはデスクトップとモバイルデバイスの両方でシームレスに動作するように設計されています。いつでもどこでもユニークなビートを作れます！",
+	  "pastitle5": "Sprunki's Worldには隠し機能やイースターエッグはありますか？",
+	  "pasdesc5": "もちろんあります！私たちはSprunki's World全体に小さな驚きを隠すのが大好きです。さまざまな組み合わせを試して、本当にクレイジーな隠し機能を解除できるかもしれません！",
+	  "pastitle6": "Sprunki's Worldは子供向けですか？",
+	  "pasdesc6": "もちろんです！Sprunki's Worldは全年齢で楽しめます。遊び心のある魅力的な方法で、子供たちにリズム、作曲、音楽制作の楽しさを紹介する素晴らしいツールです。"
+	},
+	"footer": {
+	  "title": "タイトル",
+	  "lang": {
+		"en": "英語",
+		"lang2": "テスト"
+	  }
+	}
+  }

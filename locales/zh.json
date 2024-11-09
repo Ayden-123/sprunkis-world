@@ -1,0 +1,71 @@
+{
+    "meta": {
+        "title": "Sprunki's World：创作Sprunky节拍的免费音乐游戏",
+        "description": "加入Sprunki's World的奇妙世界！与可爱的角色一起混音搭配，创作独特的Sprunky节拍。体验前所未有的音乐创作乐趣。"
+    },
+    "common": {
+        "appName": "Sprunki's World"
+    },
+    "header": {
+        "home": "首页",
+        "about": "关于",
+        "contactUs": "联系我们"
+    },
+    "hero": {
+        "title": "Sprunki's World：免费在线音乐游戏",
+        "description": "欢迎来到Sprunki's World音乐创作游戏",
+        "cta": "立即开玩"
+    },
+    "emb": {
+        "title": "即刻体验Sprunki's World"
+    },
+    "what": {
+        "title": "什么是Sprunki's World？",
+        "pas1": "Sprunki's World不仅仅是一款游戏，更是一场音乐革命！源自广受欢迎的Incredibox平台，Sprunki将节拍创作带入一个全新的有趣创意境界。在Sprunki's World中，你不只是在制作音乐，更是在创造充满Sprunky风格的交响乐，尽情释放你内心的音乐天赋。",
+        "pas2": "Sprunki's World的核心玩法是混搭各种独特音效来创作独一无二的Sprunky节拍。但真正让Sprunki与众不同的是其可爱又古怪的角色阵容，每个角色都能为你的音乐创作带来独特的Sprunky风味。从说唱机器人到山地牦牛，Sprunki家族将为你带来终生难忘的音乐创作体验。"
+    },
+    "feature": {
+        "title": "Sprunki's World特色功能",
+        "pastitle1": "独特音效",
+        "pasdesc1": "探索Sprunki世界中独特的音效和新奇的音频素材",
+        "pastitle2": "趣味角色",
+        "pasdesc2": "结识我们独具特色的Sprunki说唱歌手和音乐家",
+        "pastitle3": "绚丽画面",
+        "pasdesc3": "沉浸在色彩斑斓的Sprunki世界中",
+        "pastitle4": "Sprunky特效",
+        "pasdesc4": "添加有趣的效果，打造真正独一无二的作品"
+    },
+    "how": {
+        "title": "如何玩转Sprunki's World",
+        "pastitle1": "选择你的Sprunki",
+        "pasdesc1": "从我们的趣味角色阵容中挑选你喜欢的",
+        "pastitle2": "混音创作",
+        "pasdesc2": "通过拖放操作创作你的Sprunky作品",
+        "pastitle3": "添加Sprunki魔法",
+        "pasdesc3": "用炫酷的效果和转场让你的混音更出彩",
+        "pastitle4": "分享作品",
+        "pasdesc4": "向Sprunki社区展示你的创作才华"
+    },
+    "faq": {
+        "title": "常见问题解答",
+        "pastitle1": "Sprunki's World与普通的Incredibox有什么不同？",
+        "pasdesc1": "Sprunki's World在保留Incredibox核心玩法的基础上，注入了更多独特的创意元素。在这里，你能找到更有趣的角色、更新奇的音效，体验更加Sprunky的音乐创作！",
+        "pastitle2": "需要音乐经验才能玩Sprunki's World吗？",
+        "pasdesc2": "完全不需要！Sprunki's World适合所有人，无论是音乐新手还是专业玩家。我们的直观界面让任何人都能轻松开始创作Sprunky节拍。",
+        "pastitle3": "能保存和分享我的Sprunki创作吗？",
+        "pasdesc3": "当然可以！Sprunki's World允许你保存作品并在社区中分享。你还可以导出作品，向朋友和家人展示你的Sprunky才华。",
+        "pastitle4": "Sprunki's World支持手机使用吗？",
+        "pasdesc4": "支持！Sprunki's World在电脑和手机上都能完美运行。你可以随时随地创作Sprunky节拍！",
+        "pastitle5": "Sprunki's World有隐藏功能或彩蛋吗？",
+        "pasdesc5": "当然有！我们在Sprunki's World中藏了很多小惊喜。尝试不同的组合，说不定就能解锁一些超级Sprunky的秘密功能！",
+        "pastitle6": "Sprunki's World适合儿童使用吗？",
+        "pasdesc6": "非常适合！Sprunki's World是一款老少皆宜的游戏。它是向儿童介绍节奏、作曲和音乐创作乐趣的绝佳工具，既有趣又富有教育意义。"
+    },
+    "footer": {
+        "title": "标题",
+        "lang": {
+            "en": "英文",
+            "lang2": "测试"
+        }
+    }
+}

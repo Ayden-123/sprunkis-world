@@ -1,0 +1,71 @@
+{
+	"meta": {
+		"title": "Sprunki's World: Sprunki Game Online, Create Sprunky Beats Free",
+		"description": "Dive into the world of Sprunky, Play Sprunki's World! Mix, match, and create unique Sprunky beats with our quirky characters. Experience music creation like never before."
+	},
+	"common": {
+		"appName": "Sprunki's World"
+	},
+	"header": {
+		"home": "Home",
+		"about": "About",
+		"contactUs": "Contact Us"
+	},
+	"hero": {
+		"title": "Free Sprunky Online, Play Sprunki's World Game",
+		"description": "Welcome to Sprunki's World Play Sprunky Music Game",
+		"cta": "Play Sprunki Now"
+	},
+	"emb": {
+		"title": "Play Sprunki's World Now"
+	},
+	"what": {
+		"title": "What is Sprunki's World?",
+		"pas1": "Sprunki's World is not just a game; it's a musical revolution! Born from the wildly popular Incredibox platform, Sprunki takes beat creation to a whole new level of fun and creativity. With Sprunki's World, you're not just making music – you're crafting sprunky symphonies that defy convention and unleash your inner musical maverick.",
+		"pas2": "At its core, Sprunki's World is all about mixing and matching quirky sounds to create unique, sprunky beats. But what sets Sprunki apart is its cast of lovably weird characters, each bringing their own sprunky flavor to your musical concoctions. From beatboxing robots to yodeling yetis, the Sprunki crew is here to make your music-making experience unforgettable."
+	},
+	"feature": {
+		"title": "Sprunki's World Features",
+		"pastitle1": "Unique Soundscapes",
+		"pasdesc1": "Discover a world of sprunky sounds and offbeat samples.",
+		"pastitle2": "Quirky Characters",
+		"pasdesc2": "Meet our cast of eccentric Sprunki beatboxers and singers.",
+		"pastitle3": "Vibrant Visuals",
+		"pasdesc3": "Immerse yourself in a colorful, animated Sprunki world.",
+		"pastitle4": "Sprunki Effects",
+		"pasdesc4": "Add zany effects to create truly unique compositions."
+	},
+	"how": {
+		"title": "How to Sprunki's World",
+		"pastitle1": "Choose Your Sprunki",
+		"pasdesc1": "Select from our lineup of quirky characters.",
+		"pastitle2": "Mix Your Beats",
+		"pasdesc2": "Drag and drop to create your sprunky composition.",
+		"pastitle3": "Add Sprunki Magic",
+		"pasdesc3": "Enhance your mix with wild effects and transitions.",
+		"pastitle4": "Share Your Sprunki",
+		"pasdesc4": "Show off your creation to the Sprunki community."
+	},
+	"faq": {
+		"title": "Frequently Asked Sprunky Questions",
+		"pastitle1": "What makes Sprunki's World different from regular Incredibox?",
+		"pasdesc1": "Sprunki's World takes the core concept of Incredibox and injects it with an extra dose of quirkiness and creativity. With Sprunki, you'll find more outrageous characters, zanier sounds, and an overall more sprunky experience!",
+		"pastitle2": "Do I need musical experience to enjoy Sprunki's World?",
+		"pasdesc2": "Not at all! Sprunki's World is designed for everyone, from musical novices to seasoned pros. Its intuitive interface makes it easy for anyone to start creating sprunky beats in no time.",
+		"pastitle3": "Can I save and share my Sprunki creations?",
+		"pasdesc3": "Absolutely! Sprunki's World allows you to save your beats and share them with the Sprunki community. You can also export your creations to show off your sprunky skills to friends and family.",
+		"pastitle4": "Is Sprunki's World available on mobile devices?",
+		"pasdesc4": "Yes! Sprunki's World is designed to work seamlessly on both desktop and mobile devices. You can create sprunky beats on the go, anytime, anywhere!",
+		"pastitle5": "Are there any hidden features or Easter eggs in Sprunki's World?",
+		"pasdesc5": "Oh, absolutely! We love hiding little surprises throughout Sprunki's World. Keep experimenting with different combinations and you might unlock some truly wild and wacky secret features!",
+		"pastitle6": "Is Sprunki's World suitable for children?",
+		"pasdesc6": "Absolutely! Sprunki's World is fun for all ages. It's a great tool for introducing children to rhythm, composition, and the joy of music creation in a playful, engaging way."
+	},
+	"footer": {
+		"title": "title",
+		"lang": {
+			"en": "English",
+			"lang2": "test"
+		}
+	}
+}
