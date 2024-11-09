@@ -10,6 +10,8 @@ export async function generateMetadata({
   params: { lang: string };
 }): Promise<Metadata> {
   const dict = await getDictionary(params.lang);
+  const canonical = `https://sprunkisworld.com/${params.lang}`;
+
 
   return {
     title: `${dict.meta.title}`,
@@ -26,7 +28,9 @@ const Page = async ({ params }: { params: { lang: string } }) => {
 
   return (
     <>
-      <main className="w-full">
+      <link rel="canonical" href={`https://sprunkisworld.com/${params.lang}`} />
+
+      <div className="w-full">
         <header className="bg-purple-600 text-white">
           <div className="container mx-auto px-4">
             <div className="flex justify-between items-center h-16">
@@ -290,7 +294,7 @@ const Page = async ({ params }: { params: { lang: string } }) => {
             </div>
           </div>
         </footer>
-      </main>
+      </div>
     </>
 
   );

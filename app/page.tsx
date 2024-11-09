@@ -27,7 +27,8 @@ const Page = async () => {
 
     return (
         <>
-            <main className="w-full">
+            <link rel="canonical" href="https://sprunkisworld.com/" />
+            <div className="w-full">
 
                 <header className="bg-purple-600 text-white">
                     <div className="container mx-auto px-4">
@@ -292,7 +293,7 @@ const Page = async () => {
                         </div>
                     </div>
                 </footer>
-            </main>
+            </div>
         </>
 
     );

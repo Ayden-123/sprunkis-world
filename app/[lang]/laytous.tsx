@@ -3,23 +3,20 @@ import { ReactNode } from "react";
 import GoogleAnalytics from '../GoogleAnalytics';
 
 
-const Layout = async ({
-  children,
-  params,
-}: {
-  children: ReactNode;
-  params: { lang: string };
-}) => {
+// const Layout = ({
+//   children,
+//   params,
+// }: {
+//   children: ReactNode;
+//   params: { lang: string };
+// }) => {
 
-  const canonical = "https://sprunkisworld.com/" + params.lang
+export default async function Layout({ children, params }) {
   return (
     <html
     >
       <GoogleAnalytics />
 
-      <head>
-        <link rel="canonical" href={canonical} />
-      </head>
 
       <div className='flex flex-col h-screen justify-between'>
         <div>
@@ -29,5 +26,3 @@ const Layout = async ({
     </html>
   )
 }
-
-export default Layout

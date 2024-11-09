@@ -31,10 +31,6 @@ export default async function RootLayout({ children }) {
 
       <GoogleAnalytics />
 
-      <head>
-        <link rel="canonical" href="https://sprunkisworld.com/" />
-      </head>
-
 
       <body>
         <LoadingProvider>
