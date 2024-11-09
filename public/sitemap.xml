@@ -8,8 +8,39 @@
 
 
 <url>
-  <loc>https://pokemon-tcg-pocket.cc/</loc>
-  <lastmod>2024-11-02T03:11:12+00:00</lastmod>
+  <loc>https://sprunkisworld.com/</loc>
+  <lastmod>2024-11-09T12:11:13+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sprunkisworld.com/zh</loc>
+  <lastmod>2024-11-09T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sprunkisworld.com/ja</loc>
+  <lastmod>2024-11-09T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sprunkisworld.com/ar</loc>
+  <lastmod>2024-11-09T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sprunkisworld.com/es</loc>
+  <lastmod>2024-11-09T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sprunkisworld.com/ru</loc>
+  <lastmod>2024-11-09T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sprunkisworld.com/fr</loc>
+  <lastmod>2024-11-09T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
