@@ -30,10 +30,7 @@ export default async function RootLayout({ children }) {
     >
 
       <GoogleAnalytics />
-      <head>
-        <link rel="canonical" href="https://sprunkisworld.com/" />
-        <link rel="icon" href="favicon.ico" type="image/x-icon" />
-      </head>
+      
 
 
       <body>
