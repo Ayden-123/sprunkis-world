@@ -46,6 +46,11 @@
 		"pastitle4": "Share Your Sprunki",
 		"pasdesc4": "Show off your creation to the Sprunki community."
 	},
+	"overview": {
+		"title": "Overview",
+		"pas1": "Sprunki's World is a captivating online game that immerses players in the vibrant world of music production. Step into the shoes of a virtual music producer, where you can craft your own unique beats and rhythms with an array of delightful, sound-producing characters. Each character in Sprunki's World has its own distinctive sound, allowing you to mix and match to create truly personalized compositions.",
+		"pas2": "Explore a diverse range of musical genres, experiment with different beats, and unlock hidden sound combinations to earn bonuses that enhance your tracks. Sprunki's World encourages creativity, letting you add your unique touch to each melody and discover endless musical possibilities. Dive in, have fun, and let your creativity flow as you build a symphony of sounds in this dynamic, music-filled adventure!"
+	},
 	"faq": {
 		"title": "Frequently Asked Sprunky Questions",
 		"pastitle1": "What makes Sprunki's World different from regular Incredibox?",

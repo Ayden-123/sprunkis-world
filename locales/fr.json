@@ -1,71 +1,76 @@
 {
 	"meta": {
-	  "title": "Sprunki's World : Jouez à Sprunki en ligne, Créez des rythmes Sprunky gratuitement",
-	  "description": "Plongez dans le monde de Sprunky, jouez à Sprunki's World ! Mixez, associez et créez des rythmes Sprunky uniques avec nos personnages loufoques. Découvrez la création musicale comme jamais auparavant."
+		"title": "Sprunki's World : Jouez à Sprunki en ligne, Créez des rythmes Sprunky gratuitement",
+		"description": "Plongez dans le monde de Sprunky, jouez à Sprunki's World ! Mixez, associez et créez des rythmes Sprunky uniques avec nos personnages loufoques. Découvrez la création musicale comme jamais auparavant."
 	},
 	"common": {
-	  "appName": "Sprunki's World"
+		"appName": "Sprunki's World"
 	},
 	"header": {
-	  "home": "Accueil",
-	  "about": "À propos",
-	  "contactUs": "Contactez-nous"
+		"home": "Accueil",
+		"about": "À propos",
+		"contactUs": "Contactez-nous"
 	},
 	"hero": {
-	  "title": "Jouez à Sprunky gratuitement en ligne, Découvrez Sprunki's World",
-	  "description": "Bienvenue dans le jeu musical Sprunki's World",
-	  "cta": "Jouer à Sprunki maintenant"
+		"title": "Jouez à Sprunky gratuitement en ligne, Découvrez Sprunki's World",
+		"description": "Bienvenue dans le jeu musical Sprunki's World",
+		"cta": "Jouer à Sprunki maintenant"
 	},
 	"emb": {
-	  "title": "Jouez à Sprunki's World maintenant"
+		"title": "Jouez à Sprunki's World maintenant"
 	},
 	"what": {
-	  "title": "Qu'est-ce que Sprunki's World ?",
-	  "pas1": "Sprunki's World n'est pas qu'un simple jeu, c'est une révolution musicale ! Né de la célèbre plateforme Incredibox, Sprunki élève la création de rythmes à un nouveau niveau de plaisir et de créativité. Avec Sprunki's World, vous ne faites pas que de la musique - vous créez des symphonies uniques qui défient les conventions et libèrent votre génie musical intérieur.",
-	  "pas2": "Au cœur de Sprunki's World, il s'agit de mixer et d'associer des sons loufoques pour créer des rythmes uniques. Mais ce qui rend Sprunki spécial, c'est sa troupe de personnages adorablement étranges, chacun apportant sa propre saveur à vos créations musicales. Des robots beatboxers aux yétis yodleurs, l'équipe Sprunki est là pour rendre votre expérience de création musicale inoubliable."
+		"title": "Qu'est-ce que Sprunki's World ?",
+		"pas1": "Sprunki's World n'est pas qu'un simple jeu, c'est une révolution musicale ! Né de la célèbre plateforme Incredibox, Sprunki élève la création de rythmes à un nouveau niveau de plaisir et de créativité. Avec Sprunki's World, vous ne faites pas que de la musique - vous créez des symphonies uniques qui défient les conventions et libèrent votre génie musical intérieur.",
+		"pas2": "Au cœur de Sprunki's World, il s'agit de mixer et d'associer des sons loufoques pour créer des rythmes uniques. Mais ce qui rend Sprunki spécial, c'est sa troupe de personnages adorablement étranges, chacun apportant sa propre saveur à vos créations musicales. Des robots beatboxers aux yétis yodleurs, l'équipe Sprunki est là pour rendre votre expérience de création musicale inoubliable."
 	},
 	"feature": {
-	  "title": "Caractéristiques de Sprunki's World",
-	  "pastitle1": "Paysages Sonores Uniques",
-	  "pasdesc1": "Découvrez un monde de sons Sprunky et d'échantillons décalés.",
-	  "pastitle2": "Personnages Loufoques",
-	  "pasdesc2": "Rencontrez notre troupe de beatboxers et chanteurs Sprunki excentriques.",
-	  "pastitle3": "Visuels Éclatants",
-	  "pasdesc3": "Immergez-vous dans un monde Sprunki coloré et animé.",
-	  "pastitle4": "Effets Sprunki",
-	  "pasdesc4": "Ajoutez des effets déjantés pour créer des compositions vraiment uniques."
+		"title": "Caractéristiques de Sprunki's World",
+		"pastitle1": "Paysages Sonores Uniques",
+		"pasdesc1": "Découvrez un monde de sons Sprunky et d'échantillons décalés.",
+		"pastitle2": "Personnages Loufoques",
+		"pasdesc2": "Rencontrez notre troupe de beatboxers et chanteurs Sprunki excentriques.",
+		"pastitle3": "Visuels Éclatants",
+		"pasdesc3": "Immergez-vous dans un monde Sprunki coloré et animé.",
+		"pastitle4": "Effets Sprunki",
+		"pasdesc4": "Ajoutez des effets déjantés pour créer des compositions vraiment uniques."
 	},
 	"how": {
-	  "title": "Comment utiliser Sprunki's World",
-	  "pastitle1": "Choisissez votre Sprunki",
-	  "pasdesc1": "Sélectionnez parmi notre gamme de personnages loufoques.",
-	  "pastitle2": "Mixez vos Rythmes",
-	  "pasdesc2": "Glissez-déposez pour créer votre composition unique.",
-	  "pastitle3": "Ajoutez la Magie Sprunki",
-	  "pasdesc3": "Améliorez votre mix avec des effets et transitions déjantés.",
-	  "pastitle4": "Partagez votre Sprunki",
-	  "pasdesc4": "Montrez votre création à la communauté Sprunki."
+		"title": "Comment utiliser Sprunki's World",
+		"pastitle1": "Choisissez votre Sprunki",
+		"pasdesc1": "Sélectionnez parmi notre gamme de personnages loufoques.",
+		"pastitle2": "Mixez vos Rythmes",
+		"pasdesc2": "Glissez-déposez pour créer votre composition unique.",
+		"pastitle3": "Ajoutez la Magie Sprunki",
+		"pasdesc3": "Améliorez votre mix avec des effets et transitions déjantés.",
+		"pastitle4": "Partagez votre Sprunki",
+		"pasdesc4": "Montrez votre création à la communauté Sprunki."
+	},
+	"overview": {
+		"title": "Aperçu",
+		"pas1": "Le Monde de Sprunki est un jeu en ligne captivant qui plonge les joueurs dans l'univers vibrant de la production musicale. Glissez-vous dans la peau d'un producteur de musique virtuel, où vous pourrez créer vos propres rythmes et mélodies uniques avec une variété de personnages charmants producteurs de sons. Chaque personnage dans le Monde de Sprunki possède son propre son distinctif, vous permettant de mélanger et d'associer pour créer des compositions véritablement personnalisées.",
+		"pas2": "Explorez une large gamme de genres musicaux, expérimentez différents rythmes et débloquez des combinaisons sonores cachées pour gagner des bonus qui améliorent vos morceaux. Le Monde de Sprunki encourage la créativité, vous permettant d'ajouter votre touche unique à chaque mélodie et de découvrir des possibilités musicales infinies. Plongez-vous dans l'aventure, amusez-vous et laissez votre créativité s'exprimer en construisant une symphonie de sons dans cette aventure dynamique remplie de musique !"
 	},
 	"faq": {
-	  "title": "Questions Fréquentes sur Sprunky",
-	  "pastitle1": "Qu'est-ce qui rend Sprunki's World différent de l'Incredibox classique ?",
-	  "pasdesc1": "Sprunki's World prend le concept de base d'Incredibox et y ajoute une dose supplémentaire d'excentricité et de créativité. Avec Sprunki, vous trouverez des personnages plus déjantés, des sons plus fous et une expérience globalement plus unique !",
-	  "pastitle2": "Ai-je besoin d'expérience musicale pour profiter de Sprunki's World ?",
-	  "pasdesc2": "Pas du tout ! Sprunki's World est conçu pour tous, des novices aux professionnels de la musique. Son interface intuitive permet à chacun de commencer à créer des rythmes uniques en un rien de temps.",
-	  "pastitle3": "Puis-je sauvegarder et partager mes créations Sprunki ?",
-	  "pasdesc3": "Absolument ! Sprunki's World vous permet de sauvegarder vos rythmes et de les partager avec la communauté Sprunki. Vous pouvez également exporter vos créations pour montrer vos talents à vos amis et à votre famille.",
-	  "pastitle4": "Sprunki's World est-il disponible sur les appareils mobiles ?",
-	  "pasdesc4": "Oui ! Sprunki's World est conçu pour fonctionner parfaitement sur ordinateurs et appareils mobiles. Vous pouvez créer des rythmes uniques en déplacement, n'importe quand, n'importe où !",
-	  "pastitle5": "Y a-t-il des fonctionnalités cachées ou des œufs de Pâques dans Sprunki's World ?",
-	  "pasdesc5": "Oh que oui ! Nous adorons cacher des petites surprises partout dans Sprunki's World. Continuez d'expérimenter avec différentes combinaisons et vous pourriez débloquer des fonctionnalités secrètes vraiment folles !",
-	  "pastitle6": "Sprunki's World convient-il aux enfants ?",
-	  "pasdesc6": "Absolument ! Sprunki's World est amusant pour tous les âges. C'est un excellent outil pour initier les enfants au rythme, à la composition et à la joie de créer de la musique de manière ludique et engageante."
+		"title": "Questions Fréquentes sur Sprunky",
+		"pastitle1": "Qu'est-ce qui rend Sprunki's World différent de l'Incredibox classique ?",
+		"pasdesc1": "Sprunki's World prend le concept de base d'Incredibox et y ajoute une dose supplémentaire d'excentricité et de créativité. Avec Sprunki, vous trouverez des personnages plus déjantés, des sons plus fous et une expérience globalement plus unique !",
+		"pastitle2": "Ai-je besoin d'expérience musicale pour profiter de Sprunki's World ?",
+		"pasdesc2": "Pas du tout ! Sprunki's World est conçu pour tous, des novices aux professionnels de la musique. Son interface intuitive permet à chacun de commencer à créer des rythmes uniques en un rien de temps.",
+		"pastitle3": "Puis-je sauvegarder et partager mes créations Sprunki ?",
+		"pasdesc3": "Absolument ! Sprunki's World vous permet de sauvegarder vos rythmes et de les partager avec la communauté Sprunki. Vous pouvez également exporter vos créations pour montrer vos talents à vos amis et à votre famille.",
+		"pastitle4": "Sprunki's World est-il disponible sur les appareils mobiles ?",
+		"pasdesc4": "Oui ! Sprunki's World est conçu pour fonctionner parfaitement sur ordinateurs et appareils mobiles. Vous pouvez créer des rythmes uniques en déplacement, n'importe quand, n'importe où !",
+		"pastitle5": "Y a-t-il des fonctionnalités cachées ou des œufs de Pâques dans Sprunki's World ?",
+		"pasdesc5": "Oh que oui ! Nous adorons cacher des petites surprises partout dans Sprunki's World. Continuez d'expérimenter avec différentes combinaisons et vous pourriez débloquer des fonctionnalités secrètes vraiment folles !",
+		"pastitle6": "Sprunki's World convient-il aux enfants ?",
+		"pasdesc6": "Absolument ! Sprunki's World est amusant pour tous les âges. C'est un excellent outil pour initier les enfants au rythme, à la composition et à la joie de créer de la musique de manière ludique et engageante."
 	},
 	"footer": {
-	  "title": "titre",
-	  "lang": {
-		"en": "Anglais",
-		"lang2": "test"
-	  }
+		"title": "titre",
+		"lang": {
+			"en": "Anglais",
+			"lang2": "test"
+		}
 	}
-  }
+}

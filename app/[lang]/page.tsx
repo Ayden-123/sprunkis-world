@@ -10,9 +10,6 @@ export async function generateMetadata({
   params: { lang: string };
 }): Promise<Metadata> {
   const dict = await getDictionary(params.lang);
-  const canonical = `https://sprunkisworld.com/${params.lang}`;
-
-
   return {
     title: `${dict.meta.title}`,
     description: `${dict.meta.description}`,
@@ -51,11 +48,6 @@ const Page = async ({ params }: { params: { lang: string } }) => {
                       {dict.header.about}
                     </a>
                   </li>
-                  {/* <li>
-                        <a href="/" className="hover:text-gray-200 transition-colors">
-                            {dict.header.contactUs}
-                        </a>
-                    </li> */}
                 </ul>
               </nav>
             </div>
@@ -71,15 +63,21 @@ const Page = async ({ params }: { params: { lang: string } }) => {
             <p className="text-lg mb-8 max-w-2xl mx-auto">
               {dict.hero.description}
             </p>
-            <button className="bg-white text-purple-600 px-8 py-3 rounded-full font-bold hover:bg-opacity-90 transition-all">
+            {/* <button className="bg-white text-purple-600 px-8 py-3 rounded-full font-bold hover:bg-opacity-90 transition-all">
+                            {dict.hero.cta}
+                        </button> */}
+            <a
+              href={`${params.lang}#play-game`}
+              className="bg-white text-purple-600 px-8 py-3 rounded-full font-bold hover:bg-opacity-90 transition-all inline-block"
+            >
               {dict.hero.cta}
-            </button>
+            </a>
           </div>
         </section>
 
 
         {/* emb */}
-        <div className="rounded-lg flex flex-col items-center justify-between">
+        <div id="play-game" className="rounded-lg flex flex-col items-center justify-between bg-gray-50">
           <h2 className="text-lg md:text-3xl font-bold mb-4 py-5">
             {dict.emb.title}
           </h2>
@@ -97,7 +95,7 @@ const Page = async ({ params }: { params: { lang: string } }) => {
             <h2 className="text-3xl font-bold text-center mb-12">{dict.what.title}</h2>
 
             <div className="bg-white rounded-lg p-8 shadow-sm mb-12 border border-gray-200">
-              <p className="text-gray-700 leading-relaxed">
+              <p className="text-gray-700 leading-relaxed py-5">
                 {dict.what.pas1}
               </p>
               <p className="text-gray-700 leading-relaxed">
@@ -172,6 +170,22 @@ const Page = async ({ params }: { params: { lang: string } }) => {
                   {dict.how.pasdesc4}
                 </p>
               </div>
+            </div>
+          </div>
+        </section>
+
+        {/* overview */}
+        <section className="py-20 bg-gray-50">
+          <div className="container mx-auto px-4">
+            <h2 className="text-3xl font-bold text-center mb-6">{dict.overview.title}</h2>
+
+            <div className="bg-white rounded-lg p-8 shadow-sm mb-12 border border-gray-200">
+              <p className="text-gray-700 leading-relaxed py-3">
+                {dict.overview.pas1}
+              </p>
+              <p className="text-gray-700 leading-relaxed">
+                {dict.overview.pas2}
+              </p>
             </div>
           </div>
         </section>
