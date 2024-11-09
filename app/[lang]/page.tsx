@@ -283,7 +283,7 @@ const Page = async ({ params }: { params: { lang: string } }) => {
                         <div className="text-center mb-4">
                             <p>© 2024 sprunkisworld.com All rights reserved.</p>
                         </div>
-                        <a href="https://github.com/Ayden-123/sprunkis-world" className="text-center mb-4">
+                        <a href="https://github.com/Ayden-123/sprunkis-world" className="text-center mb-4 py-2" target='_blank'>
                             <p>Sprunki's World GitHub</p>
                         </a>
                         <div className="flex justify-center space-x-6">
