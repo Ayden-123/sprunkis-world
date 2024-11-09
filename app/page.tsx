@@ -279,7 +279,7 @@ const Page = async () => {
                 <footer className="bg-[#1e2530] text-gray-400 py-8">
                     <div className="container mx-auto px-4">
                         <div className="text-center mb-4">
-                            <p>© 2024 sprunkisworld.com. All rights reserved.</p>
+                            <p>© 2024 sprunkisworld.com All rights reserved.</p>
                         </div>
                         <div className="flex justify-center space-x-6">
 
