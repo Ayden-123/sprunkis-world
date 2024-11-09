@@ -50,11 +50,11 @@ const Page = async () => {
                                             {dict.header.about}
                                         </a>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <a href="/" className="hover:text-gray-200 transition-colors">
                                             {dict.header.contactUs}
                                         </a>
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </nav>
                         </div>
@@ -128,11 +128,13 @@ const Page = async () => {
                                 </ul>
                             </div>
                             <div className="relative">
-                                <div className="sticky top-8">
+                                <div className="sticky top-8 pl-10">
                                     <img
                                         src="/images/feature.png"
                                         alt="Game Features Preview"
-                                        className="rounded-lg shadow-lg w-full"
+                                        className="rounded-lg shadow-lg"
+                                        width={500}
+                                        height={450}
                                     />
                                 </div>
                             </div>
@@ -145,25 +147,25 @@ const Page = async () => {
                     <div className="container mx-auto px-4">
                         <h2 className="text-3xl font-bold text-center mb-12">{dict.how.title}</h2>
                         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-                            <div className="text-center p-6">
+                            <div className="text-center p-6 bg-white rounded-lg shadow-sm border border-gray-200 transition-all duration-300 hover:shadow-lg hover:scale-105 hover:border-purple-300">
                                 <h3 className="text-xl font-bold mb-4">{dict.how.pastitle1}</h3>
                                 <p className="text-gray-600">
                                     {dict.how.pasdesc1}
                                 </p>
                             </div>
-                            <div className="text-center p-6">
+                            <div className="text-center p-6 bg-white rounded-lg shadow-sm border border-gray-200 transition-all duration-300 hover:shadow-lg hover:scale-105 hover:border-purple-300">
                                 <h3 className="text-xl font-bold mb-4">{dict.how.pastitle2}</h3>
                                 <p className="text-gray-600">
                                     {dict.how.pasdesc2}
                                 </p>
                             </div>
-                            <div className="text-center p-6">
+                            <div className="text-center p-6 bg-white rounded-lg shadow-sm border border-gray-200 transition-all duration-300 hover:shadow-lg hover:scale-105 hover:border-purple-300">
                                 <h3 className="text-xl font-bold mb-4">{dict.how.pastitle3}</h3>
                                 <p className="text-gray-600">
                                     {dict.how.pasdesc3}
                                 </p>
                             </div>
-                            <div className="text-center p-6">
+                            <div className="text-center p-6 bg-white rounded-lg shadow-sm border border-gray-200 transition-all duration-300 hover:shadow-lg hover:scale-105 hover:border-purple-300">
                                 <h3 className="text-xl font-bold mb-4">{dict.how.pastitle4}</h3>
                                 <p className="text-gray-600">
                                     {dict.how.pasdesc4}
@@ -277,7 +279,7 @@ const Page = async () => {
                 <footer className="bg-[#1e2530] text-gray-400 py-8">
                     <div className="container mx-auto px-4">
                         <div className="text-center mb-4">
-                            <p>© 2023 Sprunki. All rights reserved.</p>
+                            <p>© 2024 sprunkisworld.com. All rights reserved.</p>
                         </div>
                         <div className="flex justify-center space-x-6">
 
