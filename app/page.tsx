@@ -183,7 +183,7 @@ const Page = async () => {
                         </h2>
 
                         <div className="space-y-8">
-                            <div className="bg-white rounded-lg shadow-sm p-8">
+                            <div className="bg-white rounded-lg shadow-sm p-8 bg-white rounded-lg shadow-sm border border-gray-200 transition-all duration-300 hover:shadow-lg hover:scale-105 hover:border-purple-300">
                                 <h3 className="text-2xl font-semibold text-[#8B1D24] mb-4">
                                     {dict.faq.pastitle1}
                                 </h3>
@@ -191,7 +191,7 @@ const Page = async () => {
                                     {dict.faq.pasdesc1}
                                 </p>
                             </div>
-                            <div className="bg-white rounded-lg shadow-sm p-8">
+                            <div className="bg-white rounded-lg shadow-sm p-8 bg-white rounded-lg shadow-sm border border-gray-200 transition-all duration-300 hover:shadow-lg hover:scale-105 hover:border-purple-300">
                                 <h3 className="text-2xl font-semibold text-[#8B1D24] mb-4">
                                     {dict.faq.pastitle2}
                                 </h3>
@@ -199,7 +199,7 @@ const Page = async () => {
                                     {dict.faq.pasdesc2}
                                 </p>
                             </div>
-                            <div className="bg-white rounded-lg shadow-sm p-8">
+                            <div className="bg-white rounded-lg shadow-sm p-8 bg-white rounded-lg shadow-sm border border-gray-200 transition-all duration-300 hover:shadow-lg hover:scale-105 hover:border-purple-300">
                                 <h3 className="text-2xl font-semibold text-[#8B1D24] mb-4">
                                     {dict.faq.pastitle3}
                                 </h3>
@@ -207,7 +207,7 @@ const Page = async () => {
                                     {dict.faq.pasdesc3}
                                 </p>
                             </div>
-                            <div className="bg-white rounded-lg shadow-sm p-8">
+                            <div className="bg-white rounded-lg shadow-sm p-8 bg-white rounded-lg shadow-sm border border-gray-200 transition-all duration-300 hover:shadow-lg hover:scale-105 hover:border-purple-300">
                                 <h3 className="text-2xl font-semibold text-[#8B1D24] mb-4">
                                     {dict.faq.pastitle4}
                                 </h3>
@@ -215,7 +215,7 @@ const Page = async () => {
                                     {dict.faq.pasdesc4}
                                 </p>
                             </div>
-                            <div className="bg-white rounded-lg shadow-sm p-8">
+                            <div className="bg-white rounded-lg shadow-sm p-8 bg-white rounded-lg shadow-sm border border-gray-200 transition-all duration-300 hover:shadow-lg hover:scale-105 hover:border-purple-300">
                                 <h3 className="text-2xl font-semibold text-[#8B1D24] mb-4">
                                     {dict.faq.pastitle5}
                                 </h3>
@@ -223,7 +223,7 @@ const Page = async () => {
                                     {dict.faq.pasdesc5}
                                 </p>
                             </div>
-                            <div className="bg-white rounded-lg shadow-sm p-8">
+                            <div className="bg-white rounded-lg shadow-sm p-8 bg-white rounded-lg shadow-sm border border-gray-200 transition-all duration-300 hover:shadow-lg hover:scale-105 hover:border-purple-300">
                                 <h3 className="text-2xl font-semibold text-[#8B1D24] mb-4">
                                     {dict.faq.pastitle6}
                                 </h3>
@@ -236,51 +236,15 @@ const Page = async () => {
                     </div>
                 </section>
 
-                {/* video */}
-                {/* <section className="py-20 bg-white">
-                <div className="container mx-auto px-4">
-                    <h2 className="text-3xl font-bold text-center mb-12">Pokemon TCG Pocket Youtube Videos</h2>
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                        <div className="aspect-video bg-gray-200 rounded-lg overflow-hidden">
-                            <iframe
-                                className="w-full h-full"
-                                src="https://www.youtube.com/embed/4UkbvcQzzWk"
-                                title="YouTube video player"
-                                frameBorder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowFullScreen
-                            ></iframe>
-                        </div>
-                        <div className="aspect-video bg-gray-200 rounded-lg overflow-hidden">
-                            <iframe
-                                className="w-full h-full"
-                                src="https://www.youtube.com/embed/16duP6ga_Q8"
-                                title="YouTube video player"
-                                frameBorder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowFullScreen
-                            ></iframe>
-                        </div>
-                        <div className="aspect-video bg-gray-200 rounded-lg overflow-hidden">
-                            <iframe
-                                className="w-full h-full"
-                                src="https://www.youtube.com/embed/zMO4mbFIyro"
-                                title="YouTube video player"
-                                frameBorder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowFullScreen
-                            ></iframe>
-                        </div>
-                    </div>
-                </div>
-            </section> */}
-
                 {/* footer */}
                 <footer className="bg-[#1e2530] text-gray-400 py-8">
                     <div className="container mx-auto px-4">
                         <div className="text-center mb-4">
                             <p>© 2024 sprunkisworld.com All rights reserved.</p>
                         </div>
+                        <a href="https://github.com/Ayden-123/sprunkis-world" className="text-center mb-4 py-2" target='_blank'>
+                            <p>Sprunki's World GitHub</p>
+                        </a>
                         <div className="flex justify-center space-x-6">
 
                             {Object.keys(localeNames).map((key: string) => {
